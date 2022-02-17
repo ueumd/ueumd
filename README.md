@@ -19,3 +19,4 @@
 ![Golang](https://img.shields.io/badge/-Golang-blue)
 ![MySql](https://img.shields.io/badge/-MySql-green)
 ![Redis](https://img.shields.io/badge/-Redis-brightgreen)
+![nginx](https://img.shields.io/badge/-nginx-green)
