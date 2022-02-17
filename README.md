@@ -5,7 +5,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
 ![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
@@ -14,11 +13,9 @@
 ![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
-
 ![Golang](https://img.shields.io/badge/-Golang-blue)
 ![MySql](https://img.shields.io/badge/-MySql-green)
 
